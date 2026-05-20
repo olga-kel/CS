@@ -1,0 +1,20 @@
+Package contents:
+MANIFEST.txt
+README_span_projection_reproducibility.md
+requirements_span_projection.txt
+data/miami_gpt_labels_sent.xlsx
+data/paraguay_loanword_mapping.csv
+data/spa_gua_gpt_labels_sent-2.xlsx
+scripts/span_projection_analysis.py
+scripts/span_projection_utils.py
+results/SUPPLEMENT_Full_DEPREL_Table.csv
+results/TABLE2_functional_vs_lexical.csv
+results/TableS1_by_UPOS.csv
+results/TableS2_ttests_and_effectsizes.csv
+results/combined_span_observations.csv
+results/miami_sentence_level_summary.csv
+results/miami_span_observations.csv
+results/paper_to_output_map.csv
+results/paraguay_sentence_level_summary.csv
+results/paraguay_span_observations.csv
+results/regression_terms.csv

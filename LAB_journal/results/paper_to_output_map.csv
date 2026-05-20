@@ -1,0 +1,6 @@
+paper_table,output_file,content
+Table 5,regression_terms.csv,"Expanded regression terms for Poisson, OLS, and logistic models"
+Table 2,TABLE2_functional_vs_lexical.csv,Functional vs. lexical span-length summary
+Table S1,TableS1_by_UPOS.csv,Span summary by UPOS
+Table S2,TableS2_ttests_and_effectsizes.csv,T-tests and effect sizes
+Supplementary DEPREL table,SUPPLEMENT_Full_DEPREL_Table.csv,Span summary by DEPREL
